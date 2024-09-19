@@ -10,7 +10,7 @@ Operates in the terminal. You can initialize a Building structure, populate the 
 - ghost.c: Contains source code needed to execute 
 - room.c: Contains source code needed to execute 
 - main.c: Contains source code needed to execute
-- README.txt: Contains this description
+- README.md: Contains this description
 
 # Compiling and Executing
 1. Navigate to the folder containing the source code in a terminal,
