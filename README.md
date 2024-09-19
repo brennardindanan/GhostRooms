@@ -20,9 +20,9 @@ To initialize a Building structure, populate the building with rooms and each ro
 # Usage Instructions
 1. After executing the file 'a4' from the steps above, observe the options in the MAIN MENU,
 2. Choose to either
-	a) Print rooms by pressing 1	
-	b) Print ghosts by pressing 2
-	c) Print ghosts by likelihood in descending order by pressing 3
-	d) Print only the most likely ghost and the least likely ghost by pressing 4
-	d) Exit the program by pressing 0
+	- Print rooms by pressing 1
+	- Print ghosts by pressing 2
+	- Print ghosts by likelihood in descending order by pressing 3
+	- Print only the most likely ghost and the least likely ghost by pressing 4
+	- Exit the program by pressing 0
 
