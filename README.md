@@ -1,5 +1,5 @@
-# Program's Purpose
-To initialize a Building structure, populate the building with rooms and each room with ghosts, and allow the user to navigate the program using the user menu. Functionality includes Printing rooms, printing ghosts, printing ghosts by likelihood, printing only most and least likely ghosts, and exiting with 0 leaks.
+# About
+Operates in the terminal. You can initialize a Building structure, populate the building with rooms and each room with ghosts, and allow the user to navigate the program using the user menu. Functionality includes Printing rooms, printing ghosts, printing ghosts by likelihood, printing only most and least likely ghosts, and exiting with 0 leaks.
 
 ## Technologies Used
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
